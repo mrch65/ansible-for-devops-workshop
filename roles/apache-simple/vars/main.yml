@@ -2,4 +2,5 @@
 # vars file for apache-simple
 httpd_packages:
   - httpd
-    - mod_wsgi
+  - mod_wsgi
+    
